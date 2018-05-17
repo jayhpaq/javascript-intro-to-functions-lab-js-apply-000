@@ -22,7 +22,7 @@ function sayHiToGrandma("YES INDEED!") {
   return string.toUpperCase()
 }
 
-function sayHiToGrandma() {
-  return string.
+function sayHiToGrandma("I love you, Grandma") {
+  
 }
   
