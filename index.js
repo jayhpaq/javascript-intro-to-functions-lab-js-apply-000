@@ -22,7 +22,7 @@ function sayHiToGrandma(string) {
   return string.toUpperCase()
 }
 
-function sayHiToGrandma(string) {
-  console.log("I love you too")
+function sayHiToGrandma(string === "I love you, Grandma") {
+  return string.tomixedCase() 
   
 }
