@@ -22,7 +22,5 @@ function sayHiToGrandma(string) {
   return string.toUpperCase()
 }
 
-function sayHiToGrandma(string === "I love you, Grandma") {
-  return string.
+function sayHiToGrandma(string === "I love you, Grandma") 
   
-}
